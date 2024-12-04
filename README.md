@@ -96,4 +96,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Contributing**: Guidelines for anyone wanting to contribute to the project.
 - **License**: Information about the project's licensing.
 
-This README provides users with all the necessary information to understand, set up, and potentially contribute to your project. Make sure to replace placeholder links (e.g., repository URL) with actual URLs as appropriate.
